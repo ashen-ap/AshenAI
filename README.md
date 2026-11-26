@@ -30,7 +30,7 @@ Shen is off until you turn it on.
 
 1. **Download** the latest `AshenAI_<version>.zip` from [Releases](https://github.com/ashen-ap/AshenAI/releases/latest).
 2. **Extract** it to a normal folder such as `Documents\AshenAI`. Don't run it from inside the ZIP or from Program Files.
-3. **Run `Start AshenAI.bat`.**
+3. **Start it:** open the extracted folder and double-click **`Start AshenAI.bat`**. The first time, AshenAI opens straight to Settings so you can choose a model. Start it the same way every time; to make it easier, right-click the file → **Send to → Desktop (create shortcut)**.
 4. **Install a model** in **Settings → Models & features**. Nothing large downloads until you choose.
 5. **Set up web search** (recommended; see below).
 
